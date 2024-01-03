@@ -2,7 +2,7 @@
 
 This repository contains the my Python solutions for the **2023 Advent of Code** questions.
 
-Day 1 - Trebuchet?!\n
+Day 1 - Trebuchet?!
 Day 2 - Cube Conundrum
 Day 3 - Gear Ratios
 Day 4 - Scratchcards
